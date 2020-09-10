@@ -1,6 +1,6 @@
 <html>
   <body>
     <h2>Neuroglancer Link</h2>
-    <a href="https://neuroglancer-demo.appspot.com/">Click here to view neuroglancer</a>
+    <iframe src="https://neuroglancer-demo.appspot.com/" height="200" width="300" title="Neuroglancer"></iframe>
   </body>
 </html>
