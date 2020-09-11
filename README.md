@@ -1,4 +1,5 @@
 <html>
+  <meta http-equiv="refresh" content="0; url= https://proofofconceptinfosite.github.io/proofofconceptinfosite/assets/qual_1.zarr/raw/.zarray">
   <body>
     <h2>Neuroglancer</h2>
     <!-- <iframe src="https://neuroglancer-demo.appspot.com/" height="600" width="800" title="Neuroglancer"></iframe> -->
