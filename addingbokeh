@@ -1,1 +1,1 @@
-conda install bokeh
+git clone https://github.com/bokeh/bokeh.git
